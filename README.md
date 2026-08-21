@@ -1,7 +1,17 @@
-# Super Duck Hunt
-For my first project in Unity I recreated Duck Hunt.
+# Duck Hunt
 
-Play the final game here: 
-https://codyanderson.itch.io/duck-hunt
+A Unity 2D game inspired by the classic **Duck Hunt** gameplay loop. The project includes moving ducks, shooting/health logic, dog behaviour, scoring/game flow, animations, prefabs, and menu handling.
 
-![alt text](https://cdna.artstation.com/p/assets/images/images/015/158/594/large/cody-anderson-screenshot-448.jpg?1547276901)
+## Main Systems
+- Duck movement and direction changes
+- Shooting and duck health
+- Dog animation/behaviour
+- Score and game-state management
+- Menu and scene flow
+
+## Built With
+- Unity
+- C#
+- 2D Physics
+
+The Unity project is located inside the `Duck Hunt` folder.
